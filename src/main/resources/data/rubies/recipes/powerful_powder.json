@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "rubies:netherite_infused_ruby_diamond_block"
+  },
+  "result": "rubies:powerful_powder",
+  "experience": 500.0,
+  "cookingtime": 1200
+}

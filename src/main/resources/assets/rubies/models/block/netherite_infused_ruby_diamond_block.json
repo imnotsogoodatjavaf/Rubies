@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "rubies:block/netherite_infused_ruby_diamond_block"
+  }
+}

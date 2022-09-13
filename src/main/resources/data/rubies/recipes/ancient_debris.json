@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "///",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rubies:ruby_block"
+    },
+    "/": {
+      "item": "rubies:netherite_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:ancient_debris",
+    "count": 1
+  }
+}

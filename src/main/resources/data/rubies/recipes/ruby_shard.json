@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "rubies:deepslate_ruby_ore"
+  },
+  "result": "rubies:ruby_shard",
+  "experience": 10,
+  "cookingtime": 500
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RSR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "rubies:ruby"
+    },
+    "S": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "rubies:ruby_infused_steak",
+    "count": 1
+  }
+}

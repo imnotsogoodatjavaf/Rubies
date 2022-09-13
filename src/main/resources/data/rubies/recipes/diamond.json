@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "rubies:ruby"
+  },
+  "result": "minecraft:diamond",
+  "experience": 0,
+  "cookingtime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "DND",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "rubies:ruby_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "rubies:netherite_infused_ruby_diamond_block",
+    "count": 16
+  }
+}

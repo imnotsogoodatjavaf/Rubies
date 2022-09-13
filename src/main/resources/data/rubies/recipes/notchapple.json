@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "GEG",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "rubies:ruby"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "E": {
+      "item": "minecraft:enchanted_book"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

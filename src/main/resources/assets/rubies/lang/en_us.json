@@ -1,0 +1,21 @@
+{
+  "item.rubies.ruby": "Ruby",
+  "item.rubies.ruby_ingot": "Ruby Ingot",
+  "block.rubies.ruby_block": "Ruby Block",
+  "block.rubies.netherite_infused_ruby_diamond_block": "Netherite Infused Ruby Diamond Block",
+  "block.rubies.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "item.rubies.powerful_powder": "Powerful Powder",
+  "item.rubies.ruby_infused_steak": "Ruby Infused Steak",
+  "item.rubies.ruby_shard": "Ruby Shard",
+  "item.rubies.netherite_shard": "Netherite Shard",
+  "item.rubies.ruby_sword": "Ruby Sword",
+  "item.rubies.ruby_axe": "Ruby Axe",
+  "item.rubies.ruby_pickaxe": "Ruby Pickaxe",
+  "item.rubies.ruby_shovel": "Ruby Shovel",
+  "item.rubies.ruby_hoe": "Ruby Hoe",
+  "enchantment.rubies.ensnare": "Ensnare",
+  "enchantment.rubies.destrength": "DeStrength",
+  "enchantment.rubies.venom": "Vemon",
+  "enchantment.rubies.fatigue": "Fatigue",
+  "enchantment.rubies.floating": "Floating"
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "rubies:ruby_block",
+    "rubies:netherite_infused_ruby_diamond_block",
+    "rubies:deepslate_ruby_ore"
+  ]
+}

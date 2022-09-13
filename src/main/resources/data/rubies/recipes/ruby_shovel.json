@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rubies:ruby_block"
+    },
+    "D": {
+      "item": "minecraft:netherite_shovel"
+    }
+  },
+  "result": {
+    "item": "rubies:ruby_shovel",
+    "count": 1
+  }
+}

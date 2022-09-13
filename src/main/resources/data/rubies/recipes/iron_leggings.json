@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "rubies:ruby_ingot"
+  },
+  "result": {
+    "item": "minecraft:iron_leggings"
+  }
+}
